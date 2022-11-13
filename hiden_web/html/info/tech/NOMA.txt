@@ -1,0 +1,4 @@
+在4G時代，通訊系統多數採用正交系列的技術應用，如: 分碼多重接取（Code Division Multiple Access，CDMA），正交頻多重接取（Orthogonal Frequency Division Multiple Access，OFDMA）等等。而隨著使用者的增加，在現有的載波數量上或是既定長度的展頻碼上，已經漸漸無法負荷5G時代的急遽增加的頻寬與使用者上的需求。
+一種直觀的解決此問題的想法是增加子載波數量，或拉長展頻碼長度。然而增加子載波數量會導致需要的頻寬變多，而拉長展頻碼會導致接收端的接收延遲增加。因此，在近幾年5G的相關研究當中，非正交多重接取(Non-Orthogonal Multiple Access，NOMA)的想法被提出。 
+NOMA利用非正交的疊加技術，在既定的頻寬上能支援更多的用戶使用，而2013年所提出的稀疏編碼多重存取(Sparse Code Multiple Access, SCMA)則是code domain上的非正交應用，也是目前廣受學術界與工業矚目的一項嶄新技術。 
+另外其他非正交疊加技術，例如中興通訊公司(ZTE)所提出的MUSA(multi user share access)，也是5G中眾多發展中候選技術之一。本實驗室近期也投入人力進行SCMA的相關研究，例如結合MIMO的多天線非正交傳輸，或是非同調空時調變的SCMA應用等相關研究。歡迎對5G前瞻行動通訊技術有興趣的新生加入我們的研究團隊！
